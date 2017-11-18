@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex_2", "ex_2\ex_2.csproj", "{F13D424F-E5B4-429E-8B4C-B550F7458105}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex_1", "ex_1\ex_1.csproj", "{88B5F19B-3C40-4F78-A681-358101EA76D5}"
 EndProject
 Global
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13D424F-E5B4-429E-8B4C-B550F7458105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13D424F-E5B4-429E-8B4C-B550F7458105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13D424F-E5B4-429E-8B4C-B550F7458105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13D424F-E5B4-429E-8B4C-B550F7458105}.Release|Any CPU.Build.0 = Release|Any CPU
 		{88B5F19B-3C40-4F78-A681-358101EA76D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{88B5F19B-3C40-4F78-A681-358101EA76D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88B5F19B-3C40-4F78-A681-358101EA76D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
