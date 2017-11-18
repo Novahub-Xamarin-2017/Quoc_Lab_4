@@ -7,7 +7,7 @@ namespace ex_3
         static void Main(string[] args)
         {
             Console.WriteLine("Prime number from 2 to 100 : ");
-            for (int i = 2; i <= 100; i++)
+            for (var i = 2; i <= 100; i++)
             {
                 if (i.IsPrime())
                 {
