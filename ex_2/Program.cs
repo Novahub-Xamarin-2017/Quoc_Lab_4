@@ -6,7 +6,7 @@ namespace ex_2
     {
         static void Main(string[] args)
         {
-            string foo = "heLlO";
+            var foo = "heLlO";
             Console.WriteLine(foo.CaptionFirst());
             Console.ReadKey();
         }
